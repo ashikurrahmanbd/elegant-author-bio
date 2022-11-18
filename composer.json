@@ -1,0 +1,20 @@
+{
+    "name": "wpartstudio/elegant-author-bio",
+    "description": "A simple Clean Author bio plugin",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "autoload": {
+        "psr-4": {
+            "Wpartstudio\\ElegantAuthorBio\\": "inc/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ashikur Rahman",
+            "email": "Proashik012@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+    
+}
